@@ -1,6 +1,3 @@
-Here's another version of the **README** note for your **Food Recipe App**, with a slightly different structure and wording:
-
----
 
 # Food Recipe App
 
@@ -70,6 +67,3 @@ This project is licensed under the MIT License.
 
 - Thanks to the **Spoonacular API** for providing extensive recipe data.
 
----
-
-Feel free to modify any section as needed! Let me know if you'd like any additional changes.
